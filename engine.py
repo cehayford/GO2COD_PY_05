@@ -1,6 +1,5 @@
 import random
 from config import *
-import PySimpleGUI as gui
 
 class HangmanGame:
     def __init__(self, config: GameConfiguration = None):
