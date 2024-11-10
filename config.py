@@ -16,7 +16,9 @@ class GameConfiguration:
         if self.word_list is None:
             self.word_list = [
                 "python", "programming", "computer", "algorithm", "database",
-                "network", "software", "developer", "internet", "security"
+                "network", "software", "developer", "internet", "security","encryption",
+                "hardware", "ransomware", "cybersecurity", "blockchain", "cryptocurrency",
+                "kubernetes", "docker", "devOps", "agile", "phishing", "malware"
             ]
 
 class WordDisplay:
